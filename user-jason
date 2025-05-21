@@ -1,0 +1,25 @@
+{
+  "id": 1023,
+  "nome": "Amanda Oliveira",
+  "email": "amanda.oliveira@email.com",
+  "ativo": true,
+  "perfil": "administrador",
+  "enderecos": [
+    {
+      "tipo": "residencial",
+      "rua": "Rua das Flores",
+      "numero": 123,
+      "cidade": "Recife",
+      "estado": "PE"
+    },
+    {
+      "tipo": "comercial",
+      "rua": "Av. Central",
+      "numero": 456,
+      "cidade": "Recife",
+      "estado": "PE"
+    }
+  ],
+  "dataCadastro": "2023-08-10T14:30:00Z",
+  "ultimoLogin": null
+}
