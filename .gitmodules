@@ -1,0 +1,3 @@
+[submodule "aulagithub"]
+	path = aulagithub
+	url = git@github.com:devjeffersonpiau/aulagithub.git
